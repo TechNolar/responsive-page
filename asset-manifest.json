@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/responsive-page/static/css/main.d66470f7.css",
+    "main.js": "/responsive-page/static/js/main.eeeeadf7.js",
+    "static/media/contact-image.jpg": "/responsive-page/static/media/contact-image.3c14ad80e8e128e68d63.jpg",
+    "static/media/mobile-banner.jpg": "/responsive-page/static/media/mobile-banner.a8910c84874a1d99ac9c.jpg",
+    "static/media/main-banner.jpg": "/responsive-page/static/media/main-banner.c2dbbefa820a501ec05d.jpg",
+    "static/media/pannel-image.jpg": "/responsive-page/static/media/pannel-image.b37573b3adb1b5ed03fa.jpg",
+    "static/media/mobile-banner-background.jpg": "/responsive-page/static/media/mobile-banner-background.ff7c99e25966fefaac9f.jpg",
+    "static/media/rehaman.jpg": "/responsive-page/static/media/rehaman.b0d1b518e020707f2e48.jpg",
+    "static/media/chaithanya.jpeg": "/responsive-page/static/media/chaithanya.a6aa7aae89672facc320.jpeg",
+    "static/media/harsha.jpeg": "/responsive-page/static/media/harsha.ae0179bfefa84cb1963f.jpeg",
+    "static/media/abilash.jpeg": "/responsive-page/static/media/abilash.9bde1197bf21afac7484.jpeg",
+    "static/media/devices_showcase.png": "/responsive-page/static/media/devices_showcase.0899d384f190e45ccf75.png",
+    "static/media/chaitanya.jpeg": "/responsive-page/static/media/chaitanya.efaa54bfa404fd9776b3.jpeg",
+    "index.html": "/responsive-page/index.html",
+    "main.d66470f7.css.map": "/responsive-page/static/css/main.d66470f7.css.map",
+    "main.eeeeadf7.js.map": "/responsive-page/static/js/main.eeeeadf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d66470f7.css",
+    "static/js/main.eeeeadf7.js"
+  ]
+}
